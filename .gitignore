@@ -1,0 +1,7 @@
+__pycache__
+.DS_Store
+.ipynb_checkpoints/
+
+projets/1/mnist_test.csv                  
+projets/1/mnist_train.csv
+
